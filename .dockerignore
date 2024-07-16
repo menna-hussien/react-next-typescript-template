@@ -1,0 +1,9 @@
+.git
+.vscode
+node_modules
+package-lock.json
+.env-cmdrc.json
+read-version.ps1
+Dockerfile
+.dockerignore
+.depcheckrc.json
